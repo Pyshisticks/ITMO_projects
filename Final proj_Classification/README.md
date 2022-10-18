@@ -8,8 +8,8 @@
 
 ## Краткое описание признаков:
 
-**MIP** - Mean of the integrated profile - среднее значение интегр. профиля
-**STDIP** - Standard deviation of the integrated profile - стандартное отклонение интегр. профиля
+**MIP** - Mean of the integrated profile - среднее значение интегр. профиля //
+**STDIP** - Standard deviation of the integrated profile - стандартное отклонение интегр. профиля //
 **EKIP** - Excess kurtosis of the integrated profile - эксцесс интегр. профиля
 **SIP** - Skewness of the integrated profile - скошенность, ассиметрия интегр. профиля
 **MC** - Mean of the DM-SNR curve - среднее значение DM-SNR кривой
