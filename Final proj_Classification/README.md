@@ -13,12 +13,12 @@
 |**MIP**| Mean of the integrated profile - среднее значение интегр. профиля |
 |**STDIP**| Standard deviation of the integrated profile - стандартное отклонение интегр. профиля |
 |**EKIP**| Excess kurtosis of the integrated profile - эксцесс интегр. профиля |
-**SIP** - Skewness of the integrated profile - скошенность, ассиметрия интегр. профиля
-**MC** - Mean of the DM-SNR curve - среднее значение DM-SNR кривой
-**STDC** - Standard deviation of the DM-SNR curve - стандартное отклонение DM-SNR кривой
-**EKC** - Excess kurtosis of the DM-SNR curve - эксцесс DM-SNR кривой
-**SC** - Skewness of the DM-SNR curve - скошенность, ассиметрия DM-SNR кривой
-**TG** - Target Column (Class) - принадлженость к классу пульсаров (0 - не принадлежит, 1 - принадлежит)
+|**SIP**| Skewness of the integrated profile - скошенность, ассиметрия интегр. профиля |
+|**MC**| Mean of the DM-SNR curve - среднее значение DM-SNR кривой |
+|**STDC**| Standard deviation of the DM-SNR curve - стандартное отклонение DM-SNR кривой |
+|**EKC**| Excess kurtosis of the DM-SNR curve - эксцесс DM-SNR кривой |
+|**SC**| Skewness of the DM-SNR curve - скошенность, ассиметрия DM-SNR кривой |
+|**TG**| Target Column (Class) - принадлежность к классу пульсаров (0 - не принадлежит, 1 - принадлежит)|
 
 **Цель проекта** - подобрать оптимальную модель двухклассовой классификации данных.
 
